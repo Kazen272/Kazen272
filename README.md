@@ -32,10 +32,10 @@
                     <br>
                     <br>
                     <div>
-                        <a href="https://contate.me/Carlos_Duarte"; target="_blank";><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670133.png?token=exp=1653545908~hmac=4cc4ebc1581fcf11fa7e750e1da59e5c"; width="40"; height="40"; target="_blank";></a>
-                        <a href="https://www.instagram.com/carlos.e_duarte/" target="_blank";><img src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1653542307~hmac=2f0dc62a41306628dda9b6fb96938573"; width="40"; height="40"; target="_blank";></a>
-                        <a href = "Cadudps@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"; width="40"; height="40"; target="_blank";></a>
-                        <a href="https://www.linkedin.com/in/carlos-eduardo-duarte-703622184/"; target="_blank";><img src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1653601876~hmac=465e561481fbc741ea61de831a1eaf52"; width="40"; height="40"; target="_blank";></a>  
+                        <a href="https://contate.me/Carlos_Duarte"; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+                        <a href="https://www.instagram.com/carlos.e_duarte/" target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+                        <a href = "Cadudps@gmail.com"><img src=""; width="40"; height="40"; target="_blank";></a>
+                        <a href="https://www.linkedin.com/in/carlos-eduardo-duarte-703622184/"; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>  
                     </div>
                 </h2>
             </div> 
