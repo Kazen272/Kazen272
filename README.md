@@ -19,7 +19,7 @@
             </h3>  
             <ul type="circle";>
                 <li> Pesquisa e análise de logs Utilizando Banco de dados PHP MYADIM; </li>
-                <li> Suporte N1 atendendo clientes via Whats app e OCTADESK; </li>
+                <li> Suporte N1 atendendo clientes via WhatsApp e OCTADESK; </li>
                 <li> Suporte ao time de desenvolvimento; </li>
                 <li> Gestão e criação de issues via JIRA e TRELLO; </li>
                 <li> Criação de conteúdos via Wordpress; </li>
