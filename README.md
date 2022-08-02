@@ -30,10 +30,10 @@
     <div>
         <h2> Contato </h2>
             <div class="contato";>
-                href = "https://contate.me/CarlosDuartes"; target="_blank";><img src="https://www.flaticon.com/br/icone-premium/whatsapp_3670133?term=whatsapp&page=1&position=20&page=1&position=20&related_id=3670133&origin=search"; width="40"; height="40"; target="_blank";></a>
-                href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
-                href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
-                href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+                <a> href = "https://contate.me/CarlosDuartes"; target="_blank";><img src="https://www.flaticon.com/br/icone-premium/whatsapp_3670133?term=whatsapp&page=1&position=20&page=1&position=20&related_id=3670133&origin=search"; width="40"; height="40"; target="_blank";></a>
+                <a> href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+                <a> href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+                <a> href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
             </div>
     </div>
     <div clas="conhecimento_basico"; Align="center";>
