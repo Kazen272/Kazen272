@@ -28,13 +28,6 @@
         </div>
     </div>
     <div>
-        <h2> Contato </h2>
-            <div class="contato"; Align="center";>
-                <a href = "https://contate.me/CarlosDuartes"; target="_blank";><img src="https://br.freepik.com/icones-gratis/whatsapp_15297799.htm"; width="40"; height="40"; target="_blank";></a>
-                <a href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
-                <a href = ""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
-                <a href = ""; target="_blank";><img src=""; width="40"; height="40"; 
-            </div>
     </div>
     <div clas="conhecimento_basico"; Align="center";>
         <h2> 
