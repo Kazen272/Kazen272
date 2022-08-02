@@ -1,5 +1,6 @@
 <html>
     <body>
+    <div class="apresentacao";>
         <div>
             <h1> <b> Olá, bem vindo ao meu perfil do Github! 👋 </b> </h1>
             <h1> <b> Aceita uma xicara de café? </b> ☕ </h1>
@@ -25,26 +26,26 @@
                 <li> Criação de conteúdos via Wordpress; </li>
             </ul>
         </div>
-        <div>
-            <div class="contato"; Align="Center";>
-                <h2> 
-                    Contato:
-                    <br>
-                    <br>
-                        <a href="https://contate.me/Carlos_Duarte"; target="_blank";><img src="https://www.flaticon.com/br/icone-premium/whatsapp_3670133?term=whatsapp&page=1&position=20&page=1&position=20&related_id=3670133&origin=search"; width="50"; height="40";   
-                </h2>
-            </div> 
-            <div clas="conhecimento_basico"; Align="center";>
-                <h2> 
-                    Possuo Conhecimento Básico em:
-                    <br>
-                    <br>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"; width="40"; height="40";>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"; width="40"; height="40";>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"; width="40"; height="40";>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"; width="40"; height="40";>
-                </h2>
-            </div>
-        </div>
+    </div>
+    <div>
+        <h2> Contato </h2>
+            <div class="contato";>
+                href="https://contate.me/CarlosDuarte"; target="_blank";><img src="https://www.flaticon.com/br/icone-premium/whatsapp_3670133?term=whatsapp&page=1&position=20&page=1&position=20&related_id=3670133&origin=search"; width="40"; height="40"; target="_blank";></a>
+                href=""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+                href=""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+                href=""; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
+            <div>
+    </div>
+    <div clas="conhecimento_basico"; Align="center";>
+        <h2> 
+            Possuo Conhecimento Básico em:
+            <br>
+            <br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"; width="40"; height="40";>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"; width="40"; height="40";>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"; width="40"; height="40";>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"; width="40"; height="40";>
+        </h2>
+    </div>
     </body>
 </html>
