@@ -32,7 +32,7 @@
                     <br>
                     <br>
                     <div>
-                        <a href="https://contate.me/Carlos_Duarte"; target="_blank";><img src="https://www.flaticon.com/br/icone-premium/whatsapp_4494495?                                      term=whatsapp&page=1&position=30&page=1&position=30&related_id=4494495&origin=search"; width="50"; height="40"; target="_blank";></a>
+                        <a href="https://contate.me/Carlos_Duarte"; target="_blank";><img src="https://www.flaticon.com/br/icone-premium/whatsapp_3670133?term=whatsapp&page=1&position=20&page=1&position=20&related_id=3670133&origin=search"; width="50"; height="40"; target="_blank";></a>
                         <a href="https://www.instagram.com/carlos.e_duarte/" target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>
                         <a href = "Cadudps@gmail.com"><img src=""; width="40"; height="40"; target="_blank";></a>
                         <a href="https://www.linkedin.com/in/carlos-eduardo-duarte-703622184/"; target="_blank";><img src=""; width="40"; height="40"; target="_blank";></a>  
