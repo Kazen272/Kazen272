@@ -12,8 +12,8 @@
             <dl>
                 <dd Align="left";>    
                     Atualmente estou iniciando minha carreira na área do desenvolvimento de software.<br>
-                    Começando como estagiário no suporte N1 e logo após sendo promovido a analista de suporte técnico, 
-                    Hoje atuo como analista de negócios na empresa <a href="https://gohusky.net/"> Husky Tecnologia em Logística </a>
+                    Comecei como estagiário no suporte N2 e logo após sendo promovido a analista de suporte técnico, 
+                    hoje atuo como analista de negócios na empresa <a href="https://gohusky.net/"> Husky Tecnologia em Logística </a>
                     onde desempenho o papel de Customer Success Manager, gerenciando a equipe de suporte técnico, 
                     atuando no controle de qualidade do cliente e auxiliando nas rotinas de desenvolvimento e tecnologia. 
             </dl> 
