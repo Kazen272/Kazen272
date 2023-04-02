@@ -12,18 +12,24 @@
             <dl>
                 <dd Align="left";>    
                     Atualmente estou iniciando minha carreira na área do desenvolvimento de software.
-                    Hoje atuo como suporte N1 na empresa <a href="https://gohusky.net/"> Husky Tecnologia em Logistica </a>
-                    onde estou apredendo muito como funcionam as rotinas de desenvolvimento e tecnologia. 
+                    Começando como estagiário no suporte N1 e logo após sendo promovido a analista de suporte técnico, 
+                    Hoje atuo como analista de negócios na empresa <a href="https://gohusky.net/"> Husky Tecnologia em Logística </a>
+                    onde desempenho o papel de Customer Success Manager, gerenciando a equipe de suporte técnico, 
+                    atuando no controle de qualidade do cliente e auxiliando nas rotinas de desenvolvimento e tecnologia. 
             </dl> 
             <h3> 
                 Dentre as funções que desempenho, estão listadas: 
             </h3>  
             <ul type="circle";>
-                <li> Pesquisa e análise de logs Utilizando Banco de dados PHP MYADIM; </li>
-                <li> Suporte N1 atendendo clientes via WhatsApp e OCTADESK; </li>
+                <li> Pesquisa e análise de logs Utilizando Banco de dados PHP MYADIM, Beekeper e Workbench; </li>
+                <li> Atendimento, treinamento e Onboarding de clientes; </li>
                 <li> Suporte ao time de desenvolvimento; </li>
-                <li> Gestão e criação de issues via JIRA e TRELLO; </li>
+                <li> Gestão e criação de issues via JIRA, TRELLO; </li>
                 <li> Criação de conteúdos via Wordpress; </li>
+                <li> Criação de processos; </li>
+                <li> Testes de features e releases utilizando bitbucket; </li>
+                <li> Gestão de suporte técnico utilizando Kanban; </li>
+                <li> Build e publicação de aplicativos na play console; </li>
             </ul>
         </div>
     </div>
